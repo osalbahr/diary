@@ -11,3 +11,7 @@
 ## Day 2 (Feb 19, 2026)
 
 - [x] 7:30pm-8pm - Gym (biceps, back)
+
+## Day 3 (Feb 20, 2026)
+
+- [ ] 1pm-1:30pm - Gym
